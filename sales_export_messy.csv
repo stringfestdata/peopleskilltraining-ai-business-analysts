@@ -1,0 +1,16 @@
+Order ID,Order Date,Customer,Region,Product Category,Units,Revenue
+1001,01/03/2026,Acme Corp,northeast,Office Supplies,12,$1440.00
+1002,2026-01-05,beta industries,North East,office supplies,5,600
+1003,Jan 7 2026,Gamma LLC,NE,Furniture,2,$2100
+1004,01/09/2026,Acme Corp ,Northeast,furniture,,2100
+1005,1/12/2026,Delta Co,midwest,Technology,8,$4000.00
+1006,2026-01-14,Epsilon Partners,Mid-West,technology,8,4000
+1007,01/16/2026,Gamma  LLC,N.E.,Office Supplies,20,2400
+1008,,Zeta Group,west,Furniture,3,$3150.00
+1009,01/20/2026,delta co,MW,Technology,,
+1010,01/22/2026,Eta Inc,West,Tech,6,3000
+1011,Jan 25 2026,Acme Corp,northeast,Office Supplies,15,1800
+1012,01/27/2026,Theta Ltd,South,furniture,4,4200
+1013,2026/01/29,beta industries,NorthEast,Office Supplies,7,840
+1014,02/01/2026,Iota Co,west ,Technology,10,5000
+1015,02/03/2026,Gamma LLC,NE,FURNITURE,1,1050
